@@ -1,0 +1,6 @@
+C:\Users\DynDe\source\repos\TP_kurs1\TP_kurs1\Debug\TP_kurs1.vcxproj.AssemblyReference.cache
+C:\Users\DynDe\source\repos\TP_kurs1\TP_kurs1\Debug\TPkurs1.MyForm.resources
+C:\Users\DynDe\source\repos\TP_kurs1\TP_kurs1\Debug\TP_kurs1.vcxproj.GenerateResource.cache
+C:\Users\DynDe\Desktop\TP_kurs1\TP_kurs1\Debug\TP_kurs1.vcxprojAssemblyReference.cache
+C:\Users\DynDe\Desktop\TP_kurs1\TP_kurs1\Debug\TPkurs1.MyForm.resources
+C:\Users\DynDe\Desktop\TP_kurs1\TP_kurs1\Debug\TP_kurs1.vcxproj.GenerateResource.cache
